@@ -3,8 +3,8 @@ package controllers
 import (
 	"encoding/json"
 	"fmt"
-	"go-bookstore-crud/pkg/models"
-	"go-bookstore-crud/pkg/utils"
+	"github.com/piyushbihani/go-bookstore-crud/pkg/models"
+	"github.com/piyushbihani/go-bookstore-crud/pkg/utils"
 	"net/http"
 	"strconv"
 
